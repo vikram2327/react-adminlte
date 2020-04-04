@@ -9,6 +9,7 @@ export default class ContentWrapper extends Component {
   <div className="content-wrapper">
     <Header/>
     <Content/>
+
   </div>
 
         );}
